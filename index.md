@@ -8,16 +8,17 @@ I am a 2nd year Ph.D. student at Cognitive Systems Lab, Northeastern University.
 
 ## Research Interests
  
-- **Machine Learning:** domain adaptation, unsupervised learning, Subspace Clustering
+- **Machine Learning:** domain adaptation, unsupervised learning, Subspace Clustering, Multimodal analysis
 - **Signal Processing:** Physics inspired models, dynamics, Signal Unmixing
-- **Psychology:** Mutli Voxel Pattern Analysis, Brain basis of Emotions
+- **Psychology:** Mutli Voxel Pattern Analysis, Biomark identification
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Oct. 2022]** Submitted our paper about invariant subspace clustering to ICASSP 2023.
+- **[Oct. 2022]** Submitted our paper on epileptogenesis to JBHI Journal. 
+- **[May. 2022]** Our abstract poster on emotional correlate got accepted in SAS2022.
+- **[Nov. 2021]** Submitted our article on data visualisation tool in F1000Research. 
+- **[Oct. 2021]** Our paper on multi voxel pattern analysis got accepted in EMBC 2021.
 
 {% include_relative _includes/publications.md %}
 
