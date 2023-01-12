@@ -2,7 +2,26 @@
 
 <div class="publications">
 <ol class="bibliography">
+<li>
+<div class="pub-row">
 
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/Screenshot from 2023-01-12 05-51-20.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">F1000research</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://www.biorxiv.org/content/10.1101/2021.10.22.465507v1.full.pdf">SPARClink: an interactive tool to visualize the impact of the SPARC program</a></div>
+    <div class="author">Sanjay Soundarajan, Sachira Kuruppu, <strong>Ashutosh Singh</strong>, Jongchan Kim, Monalisa Achalla
+</div>
+    <div class="periodical"><em><strong>F1000research</strong>, 2021.</em></div>
+    <div class="links">
+      <a href="https://fairdataihub.org/sparclink" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;"></a>
+      <strong><i style="color:#e74d3c">Article</i></strong>
+    </div>
+  </div>
+</div>
+</li>
 <li>
 <div class="pub-row">
 
