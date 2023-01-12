@@ -6,7 +6,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/Screenshot from 2023-01-12 05-51-20.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/Screenshot from 2023-01-12 06-13-59.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">F1000research</abbr>
   </div>
 
