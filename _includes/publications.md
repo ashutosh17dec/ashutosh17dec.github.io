@@ -16,7 +16,7 @@
     <div class="author"><strong>Ashutosh Singh</strong>, Christiana Westlin, Hedwig Eisenbarth, Elizabeth A Reynolds Losin, Jessica R Andrews-Hanna, Tor D Wager, Ajay B Satpute, Lisa Feldman Barrett, Dana H Brooks, Deniz Erdogmus</div>
     <div class="periodical"><em>43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society <strong>(EMBC)</strong>, 2021.</em></div>
     <div class="links">
-      <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9630852" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9630852" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;"></a>
 style="font-size:12px;">BibTex</a>
       <strong><i style="color:#e74d3c">Poster Presentation</i></strong>
     </div>
