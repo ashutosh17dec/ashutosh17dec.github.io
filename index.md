@@ -4,12 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a 2nd year Ph.D. student at Cognitive Systems Lab, Northeastern University.  
 
 ## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+ 
+- **Machine Learning:** domain adaptation, unsupervised learning, Subspace Clustering
+- **Signal Processing:** Physics inspired models, dynamics, Signal Unmixing
+- **Psychology:** Mutli Voxel Pattern Analysis, Brain basis of Emotions
 
 ## News
 
