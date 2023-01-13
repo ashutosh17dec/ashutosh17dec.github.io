@@ -7,17 +7,17 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/Screenshot from 2023-01-13 13-22-25.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">JBHI 22</abbr>
+    <img src="assets/img/Screenshot from 2023-01-13 13-39-00.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ICASSP 23 (submitted)</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2211.06780.pdf"> Inv-SENnet: Invariant Self Expression Network for clustering under biased data</a></div>
     <div class="author"><strong>Ashutosh Singh</strong>, Ashish Singh, Aria Masoomi, Tales Imbiriba, Erik Learned-Miller, Deniz Erdogmus</div>
-    <div class="periodical"><em> Submitted to Journal of Biomedical Health Informatics <strong>(JBHI)</strong>, 2022.</em></div>
+    <div class="periodical"><em> Submitted to ICASSP <strong>(ICASSP)</strong>, 2023.</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2211.06780.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;"></a>
-      <strong><i style="color:#e74d3c">Medarxiv</i></strong>
+      <strong><i style="color:#e74d3c">arxiv</i></strong>
     </div>
   </div>
 </div>
@@ -29,14 +29,14 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/Screenshot from 2023-01-13 13-22-25.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">JBHI 22</abbr>
+    <abbr class="badge">Journal submission</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://www.medrxiv.org/content/10.1101/2022.10.22.22281402v1.full.pdf"> Post Traumatic Seizure Classification with Missing Data using Multimodal Machine Learning on dMRI, EEG, and fMRI</a></div>
     <div class="author">Md Navid Akbar, Sebastian F. Ruf, <strong>Ashutosh Singh</strong>, Razieh Faghihpirayesh, Rachael Garner, Alexis
 Bennett, Celina Alba, Marianna La Rocca, Tales Imbiriba, Deniz Erdogmus¸, and Dominique Duncan</div>
-    <div class="periodical"><em> Submitted to Journal of Biomedical Health Informatics <strong>(JBHI)</strong>, 2022.</em></div>
+    <div class="periodical"><em> Submitted to Journal</em></div>
     <div class="links">
       <a href="https://www.medrxiv.org/content/10.1101/2022.10.22.22281402v1.full.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;"></a>
       <strong><i style="color:#e74d3c">Medarxiv</i></strong>
