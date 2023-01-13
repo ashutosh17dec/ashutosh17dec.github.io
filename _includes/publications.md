@@ -7,7 +7,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/Screenshot from 2023-01-12 05-51-20.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/Screenshot from 2023-01-13 13-22-25.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">JBHI 22</abbr>
   </div>
 
