@@ -10,9 +10,9 @@ Before  embarking on my Ph.D journey I received my Masters of Science in Electri
 
 ## Research Interests
  
-- **Machine Learning:** domain adaptation, unsupervised learning, Subspace Clustering, Multimodal analysis
-- **Signal Processing:** Physics inspired models, dynamics, Signal Unmixing
-- **Psychology:** Mutli Voxel Pattern Analysis, Biomark identification
+- **Machine Learning:** Domain Adaptation, Unsupervised Learning, Subspace Clustering, Multimodal analysis
+- **Signal Processing:** Physics inspired models, Signal Unmixing
+- **Psychology:** Mutli Voxel Pattern Analysis, Multi-Modal Analysis
 
 ## News
 
