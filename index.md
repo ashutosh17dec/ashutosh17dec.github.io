@@ -17,7 +17,7 @@ Before  embarking on my Ph.D journey I received my Masters of Science in Electri
 ## News
 
 - **[Oct. 2022]** Submitted our paper about invariant subspace clustering to ICASSP 2023.
-- **[Oct. 2022]** Submitted our paper on epileptogenesis to JBHI Journal. 
+- **[Oct. 2022]** Submitted our paper on epileptogenesis to bio-medical Journal. 
 - **[May. 2022]** Our abstract poster on emotional correlate got accepted in SAS2022.
 - **[Nov. 2021]** Submitted our article on data visualisation tool in F1000Research. 
 - **[Oct. 2021]** Our paper on multi voxel pattern analysis got accepted in EMBC 2021.
