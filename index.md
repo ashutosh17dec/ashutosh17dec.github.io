@@ -16,7 +16,7 @@ I received my Masters of Science (M.Sc.) in Electrical and Computer Engineering 
 
 ## News
 
-- **[Oct. 2022]** Submitted our paper about invariant subspace clustering to ICASSP 2023.
+- **[Mar. 2023]** Our paper about invariant subspace clustering got accepted in ICASSP 2023.
 - **[Oct. 2022]** Submitted our paper on epileptogenesis to bio-medical Journal. 
 - **[May. 2022]** Our abstract poster on emotional correlate got accepted in SAS2022.
 - **[Nov. 2021]** Submitted our article on data visualisation tool in F1000Research. 
