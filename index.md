@@ -8,7 +8,7 @@ I am a 2nd year Ph.D. student in Cognitive Systems Lab, Northeastern University.
 
 I received my Masters of Science (M.Sc.) in Electrical and Computer Engineering (ECE) at Northeastern University in May 2021 and Bachelor in Technology (B. Tech.) in Mechatronics (Minor. Robotics) from Manipal Institute of Technology in 2019. Aside from my current research I am extremely passionate about robotics and autonomous vehicle.
 
-During my free time I love to indulge in conversation regarding geo-politics, stock market and chess. I enjoy reading manga or anime.
+During my free time I love to indulge in conversation regarding geo-politics, stock market and chess. I enjoy reading manga or watching anime too.
 
 ## Affiliation
 - **PEN-**  (Psychologists, Engineers, Neuroscientists) Cluster at Northeastern — a nexus of experimental and modeling driven studies of brain and peripheral nervous system and their interactions with the body. At Northeastern University I mainly focus on machine learning and cognitive science.
