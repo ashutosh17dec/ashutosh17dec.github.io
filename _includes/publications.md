@@ -17,7 +17,7 @@
     <div class="periodical"><em> Submitted to ICASSP <strong>(ICASSP)</strong>, 2023.</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2211.06780.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;"></a>
-      <strong><i style="color:#e74d3c">arxiv</i></strong>
+      <strong><i style="color:#e74d3c">Conference Publication</i></strong>
     </div>
   </div>
 </div>
@@ -39,7 +39,7 @@ Bennett, Celina Alba, Marianna La Rocca, Tales Imbiriba, Deniz Erdogmus¸, and D
     <div class="periodical"><em> Submitted to Journal</em></div>
     <div class="links">
       <a href="https://www.medrxiv.org/content/10.1101/2022.10.22.22281402v1.full.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;"></a>
-      <strong><i style="color:#e74d3c">Medarxiv</i></strong>
+      <strong><i style="color:#e74d3c">Journal pre-print</i></strong>
     </div>
   </div>
 </div>
@@ -79,7 +79,7 @@ Bennett, Celina Alba, Marianna La Rocca, Tales Imbiriba, Deniz Erdogmus¸, and D
     <div class="periodical"><em>43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society <strong>(EMBC)</strong>, 2021.</em></div>
     <div class="links">
       <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9630852" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;"></a>
-      <strong><i style="color:#e74d3c">Poster Presentation</i></strong>
+      <strong><i style="color:#e74d3c">Conference Publication</i></strong>
     </div>
   </div>
 </div>
