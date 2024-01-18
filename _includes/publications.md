@@ -15,9 +15,7 @@
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://openreview.net/forum?id=ZMv6zKYYUs&invitationId=ICLR.cc/2024/Conference/Submission7952/"> Learning semilinear neural operators: A unified recursive framework for prediction and data assimilation.</a></div>
     <div class="author"><strong>Ashutosh Singh*</strong>, Ricardo Augusto Borsoi*, Deniz Erdogmus, Tales Imbiriba</div>
-    <div class="periodical"><em> ICLR <strong>(ICLR)</strong>, 2024.</em></div>
-      <strong><i style="color:#e74d3c">Conference Publication</i></strong>
-    </div>
+    <div class="periodical"><em> International Conference of Learning Representation <strong>(ICLR)</strong>, 2024.</em></div>
   </div>
 </div>
 </li>
@@ -34,11 +32,7 @@
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2813185">Wearable Biosensing to Predict Imminent Aggressive Behavior in Psychiatric Inpatient Youths With Autism</a></div>
     <div class="author">Tales Imbiriba, Ahmet Demirkaya, <strong>Ashutosh Singh</strong>, Deniz Erdogmus, Matthew S Goodwin</div>
-    <div class="periodical"><em> JAMA Network Open <strong>(JAMA Network Open)</strong>, 2023.</em></div>
-    <div class="links">
-      <a href="https://arxiv.org/pdf/2211.06780.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;"></a>
-      <strong><i style="color:#e74d3c">Journal Publication</i></strong>
-    </div>
+    <div class="periodical"><em> <strong>JAMA Network Open</strong>, 2023.</em></div>
   </div>
 </div>
 </li>
@@ -49,17 +43,13 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/Screenshot from 2023-01-13 13-39-00.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ICASSP 23 (submitted)</abbr>
+    <abbr class="badge">ICASSP 23</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2211.06780.pdf"> Inv-SENnet: Invariant Self Expression Network for clustering under biased data</a></div>
     <div class="author"><strong>Ashutosh Singh*</strong>, Ashish Singh*, Aria Masoomi, Tales Imbiriba, Erik Learned-Miller, Deniz Erdogmus</div>
-    <div class="periodical"><em> ICASSP <strong>(ICASSP)</strong>, 2023.</em></div>
-    <div class="links">
-      <a href="https://arxiv.org/pdf/2211.06780.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;"></a>
-      <strong><i style="color:#e74d3c">Conference Publication</i></strong>
-    </div>
+    <div class="periodical"><em> IEEE International Conference on Acoustics, Speech, and Signal Processing <strong>(ICASSP)</strong>, 2023.</em></div>
   </div>
 </div>
 </li>
@@ -77,11 +67,7 @@
     <div class="title"><a href="https://www.medrxiv.org/content/10.1101/2022.10.22.22281402v1.full.pdf"> Post Traumatic Seizure Classification with Missing Data using Multimodal Machine Learning on dMRI, EEG, and fMRI</a></div>
     <div class="author">Md Navid Akbar, Sebastian F. Ruf, <strong>Ashutosh Singh</strong>, Razieh Faghihpirayesh, Rachael Garner, Alexis
 Bennett, Celina Alba, Marianna La Rocca, Tales Imbiriba, Deniz Erdogmus¸, and Dominique Duncan</div>
-    <div class="periodical"><em> Submitted to Journal</em></div>
-    <div class="links">
-      <a href="https://www.medrxiv.org/content/10.1101/2022.10.22.22281402v1.full.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;"></a>
-      <strong><i style="color:#e74d3c">Journal pre-print</i></strong>
-    </div>
+    <div class="periodical"><em> Submitted to <strong>CMIG</strong></em></div>
   </div>
 </div>
 </li>
@@ -99,10 +85,6 @@ Bennett, Celina Alba, Marianna La Rocca, Tales Imbiriba, Deniz Erdogmus¸, and D
     <div class="author">Sanjay Soundarajan, Sachira Kuruppu, <strong>Ashutosh Singh</strong>, Jongchan Kim, Monalisa Achalla
 </div>
     <div class="periodical"><em><strong>F1000research</strong>, 2021.</em></div>
-    <div class="links">
-      <a href="https://fairdataihub.org/sparclink" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;"></a>
-      <strong><i style="color:#e74d3c">Article</i></strong>
-    </div>
   </div>
 </div>
 </li>
@@ -118,10 +100,6 @@ Bennett, Celina Alba, Marianna La Rocca, Tales Imbiriba, Deniz Erdogmus¸, and D
     <div class="title"><a href="https://arxiv.org/pdf/2110.12392.pdf">Variation is the Norm: Brain State Dynamics Evoked By Emotional Video Clips</a></div>
     <div class="author"><strong>Ashutosh Singh*</strong>, Christiana Westlin*, Hedwig Eisenbarth, Elizabeth A Reynolds Losin, Jessica R Andrews-Hanna, Tor D Wager, Ajay B Satpute, Lisa Feldman Barrett, Dana H Brooks, Deniz Erdogmus</div>
     <div class="periodical"><em>43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society <strong>(EMBC)</strong>, 2021.</em></div>
-    <div class="links">
-      <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9630852" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;"></a>
-      <strong><i style="color:#e74d3c">Conference Publication</i></strong>
-    </div>
   </div>
 </div>
 </li>
