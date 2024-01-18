@@ -31,6 +31,6 @@ During my free time I love to indulge in conversation regarding geo-politics, st
 - **[Nov. 2021]** Submitted our article on data visualisation tool in **F1000Research**. 
 - **[Oct. 2021]** Our paper on multi voxel pattern analysis got accepted in **EMBC 2021**.
 
-{% include_relative _includes/publications.md %}
+
 Reviewer for ICASSP 23, MLSP 23, ICASSP 24.
-{% include_relative _includes/services.md %}
+
