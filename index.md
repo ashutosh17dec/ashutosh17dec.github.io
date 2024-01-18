@@ -4,7 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a 2nd year Ph.D. student in Cognitive Systems Lab, Northeastern University. My primary advisor is Prof. <a href = "https://web.northeastern.edu/deniz/">Deniz Erdogmus</a>. My primary area of interest is in the intersection of signal processing, control and Machine learning. I closely collaborate with Prof. <a href = "https://cos.northeastern.edu/people/lisa-barrett/">Lisa Feldman Barrett</a> on developing machine learning models to study the emerging patterns in human behaviour and emotion. I also work with <a href = "https://scholar.google.com/citations?user=6h7b0fAAAAAJ&hl=en">Jennifer Dy</a> on theoretical machine learning.
+I am a 3rd year Ph.D. student in Cognitive Systems Lab, Northeastern University. My primary advisor is Prof. <a href = "https://web.northeastern.edu/deniz/">Deniz Erdogmus</a>. My primary area of interest is in the intersection of signal processing, control and Machine learning. I work on the intersection of signal processing and machine learning. I’ve always been fascinated by the ease with which humans process information and make decisions.
+My research involves developing machine learning models that can recognize patterns in time series data to help us understand the behavior of complex systems. My key projects involve designing machine learning models to discover emerging patterns in human behavior through the analysis of bio-signals.
+I closely collaborate with Prof. <a href = "https://cos.northeastern.edu/people/lisa-barrett/">Lisa Feldman Barrett</a> to study the emerging patterns in fMRI datasets explaining human behaviour and emotions. I also work with Prof. <a href = "https://www.khoury.northeastern.edu/people/matthew-goodwin/">Mathew Goodwin</a> to develop machine learning models that can help predict psychological state of the patient from bio-signals collected using wearable devices. 
 
 I received my Masters of Science (M.Sc.) in Electrical and Computer Engineering (ECE) at Northeastern University in May 2021 and Bachelor in Technology (B. Tech.) in Mechatronics (Minor. Robotics) from Manipal Institute of Technology in 2019. Aside from my current research I am extremely passionate about robotics and autonomous vehicle.
 
@@ -21,13 +23,14 @@ During my free time I love to indulge in conversation regarding geo-politics, st
 - **Psychology:** Mutli Voxel Pattern Analysis, Multi-Modal Analysis
 
 ## News
-
-- **[Mar. 2023]** Our paper about invariant subspace clustering got accepted in ICASSP 2023.
+- **[Jan. 2024]** Our paper on Learning semilinear neural operators got accepted in **ICLR 2024**.
+- **[Dec. 2023]** Our paper on Wearable Biosensing to Predict Imminent Aggressive Behavior got accepted in journal of **JAMA Network Open**.
+- **[Mar. 2023]** Our paper about invariant subspace clustering got accepted in **ICASSP 2023**.
 - **[Oct. 2022]** Submitted our paper on epileptogenesis to bio-medical Journal. 
-- **[May. 2022]** Our abstract poster on emotional correlate got accepted in SAS2022.
-- **[Nov. 2021]** Submitted our article on data visualisation tool in F1000Research. 
-- **[Oct. 2021]** Our paper on multi voxel pattern analysis got accepted in EMBC 2021.
+- **[May. 2022]** Our abstract poster on emotional correlate got accepted in **SAS2022**.
+- **[Nov. 2021]** Submitted our article on data visualisation tool in **F1000Research**. 
+- **[Oct. 2021]** Our paper on multi voxel pattern analysis got accepted in **EMBC 2021**.
 
 {% include_relative _includes/publications.md %}
-
+Reviewer for ICASSP 23, MLSP 23, ICASSP 24.
 {% include_relative _includes/services.md %}
