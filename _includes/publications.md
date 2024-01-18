@@ -57,7 +57,7 @@
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2211.06780.pdf"> Inv-SENnet: Invariant Self Expression Network for clustering under biased data</a></div>
     <div class="author"><strong>Ashutosh Singh*</strong>, Ashish Singh*, Aria Masoomi, Tales Imbiriba, Erik Learned-Miller, Deniz Erdogmus</div>
-    <div class="periodical"><em> Submitted to ICASSP <strong>(ICASSP)</strong>, 2023.</em></div>
+    <div class="periodical"><em> ICASSP <strong>(ICASSP)</strong>, 2023.</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2211.06780.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;"></a>
       <strong><i style="color:#e74d3c">Conference Publication</i></strong>
