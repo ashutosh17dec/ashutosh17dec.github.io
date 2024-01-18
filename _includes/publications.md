@@ -8,7 +8,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/Screenshot from 2023-01-13 13-39-00.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/autism_JAMA.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ICLR 2024</abbr>
   </div>
 
@@ -16,8 +16,6 @@
     <div class="title"><a href="https://openreview.net/forum?id=ZMv6zKYYUs&invitationId=ICLR.cc/2024/Conference/Submission7952/"> Learning semilinear neural operators: A unified recursive framework for prediction and data assimilation.</a></div>
     <div class="author"><strong>Ashutosh Singh*</strong>, Ricardo Augusto Borsoi*, Deniz Erdogmus, Tales Imbiriba</div>
     <div class="periodical"><em> ICLR <strong>(ICLR)</strong>, 2024.</em></div>
-    <div class="links">
-      <a href="https://arxiv.org/pdf/2211.06780.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;"></a>
       <strong><i style="color:#e74d3c">Conference Publication</i></strong>
     </div>
   </div>
@@ -29,7 +27,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/Screenshot from 2023-01-13 13-39-00.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/autism_JAMA.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">JAMA Network Open</abbr>
   </div>
 
