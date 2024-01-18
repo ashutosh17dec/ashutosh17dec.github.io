@@ -33,4 +33,6 @@ During my free time I love to indulge in conversation regarding geo-politics, st
 
 
 Reviewer for ICASSP 23, MLSP 23, ICASSP 24.
+{% include_relative _includes/publications.md %}
 
+{% include_relative _includes/services.md %}
