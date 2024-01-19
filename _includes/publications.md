@@ -66,7 +66,7 @@
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://www.medrxiv.org/content/10.1101/2022.10.22.22281402v1.full.pdf"> Post Traumatic Seizure Classification with Missing Data using Multimodal Machine Learning on dMRI, EEG, and fMRI</a></div>
     <div class="author">Md Navid Akbar, Sebastian F. Ruf, <strong>Ashutosh Singh</strong>, Razieh Faghihpirayesh, Rachael Garner, Alexis
-Bennett, Celina Alba, Marianna La Rocca, Tales Imbiriba, Deniz Erdogmus¸, and Dominique Duncan</div>
+Bennett, Celina Alba, Marianna La Rocca, Tales Imbiriba, Deniz Erdogmus, Dominique Duncan</div>
     <div class="periodical"><em> Submitted to <strong>CMIG</strong></em></div>
   </div>
 </div>
