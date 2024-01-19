@@ -71,6 +71,24 @@ Bennett, Celina Alba, Marianna La Rocca, Tales Imbiriba, Deniz Erdogmus¸, and D
   </div>
 </div>
 </li>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/SAS2022.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">SAS 2022</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://society-for-affective-science.org/wp-content/uploads/2023/09/2022-SAS-Program-v9.pdf">Variation in brain correlates of emotional experience </a></div>
+    <div class="author">Christiana Westlin*, <strong>Ashutosh Singh*</strong>,Dana H Brooks, Deniz Erdogmus, Lisa Feldman Barrett</div>
+    <div class="periodical"><em> Society of Affective Science<strong>(SAS)</strong>, 2022.</em></div>
+  </div>
+</div>
+</li>
+
     
 <li>
 <div class="pub-row">
