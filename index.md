@@ -24,10 +24,11 @@ During my free time I love to indulge in conversation regarding geo-politics, st
 - **Psychology:** Mutli Voxel Pattern Analysis, Multi-Modal Analysis
 
 ## News
+- **[Apr. 2024]** Our paper on epileptogenesis and multi modal fusion got accepted at to **CMIG**.
+- **[Mar.2024]** Got awarded PhD network travel grant for poster presentation at **ICLR 2024**. See you all at Vienna!!
 - **[Jan. 2024]** Our paper on Learning semilinear neural operators got accepted in **ICLR 2024**.
 - **[Dec. 2023]** Our paper on Wearable Biosensing to Predict Imminent Aggressive Behavior got accepted in journal of **JAMA Network Open**.
 - **[Mar. 2023]** Our paper about invariant subspace clustering got accepted in **ICASSP 2023**.
-- **[Oct. 2022]** Submitted our paper on epileptogenesis to bio-medical Journal. 
 - **[May. 2022]** Our abstract poster on emotional correlate got accepted in **SAS2022**.
 - **[Nov. 2021]** Submitted our article on data visualisation tool in **F1000Research**. 
 - **[Oct. 2021]** Our paper on multi voxel pattern analysis got accepted in **EMBC 2021**.
