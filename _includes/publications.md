@@ -8,6 +8,24 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/Screenshot from 2023-01-13 13-22-25.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">CMIG</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S0895611124000636">Advancing post-traumatic seizure classification and biomarker identification: Information decomposition based multimodal fusion and explainable machine learning with missing neuroimaging data</a></div>
+    <div class="author">Md Navid Akbar, Sebastian F. Ruf, <strong>Ashutosh Singh</strong>, Razieh Faghihpirayesh, Rachael Garner, Alexis
+Bennett, Celina Alba, Marianna La Rocca, Tales Imbiriba, Deniz Erdogmus, Dominique Duncan</div>
+    <div class="periodical"><em>Computerized Medical Imaging and Graphics<strong>CMIG (2024)</strong></em></div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/ICLr2024.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ICLR 2024</abbr>
   </div>
@@ -55,22 +73,7 @@
 </li>
     
 
-<li>
-<div class="pub-row">
 
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/Screenshot from 2023-01-13 13-22-25.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Journal submission</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://www.medrxiv.org/content/10.1101/2022.10.22.22281402v1.full.pdf"> Post Traumatic Seizure Classification with Missing Data using Multimodal Machine Learning on dMRI, EEG, and fMRI</a></div>
-    <div class="author">Md Navid Akbar, Sebastian F. Ruf, <strong>Ashutosh Singh</strong>, Razieh Faghihpirayesh, Rachael Garner, Alexis
-Bennett, Celina Alba, Marianna La Rocca, Tales Imbiriba, Deniz Erdogmus, Dominique Duncan</div>
-    <div class="periodical"><em> Submitted to <strong>CMIG</strong></em></div>
-  </div>
-</div>
-</li>
 
 
 <li>
