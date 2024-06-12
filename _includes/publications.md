@@ -50,7 +50,7 @@ Bennett, Celina Alba, Marianna La Rocca, Tales Imbiriba, Deniz Erdogmus, Dominiq
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://socialaffectiveneuro.org/wp-content/uploads/2024/05/SANS-Conference-2024_Program_Final.pdf">A Variational Autoencoder-Based Method to Investigate Degeneracy in the Neural Correlates of Psychological Concepts</a></div>
     <div class="author">Kieran McVeigh, <strong>Ashutosh Singh</strong>, Deniz Erdogmus, Lisa Feldman Barrett, Ajay B. Satpute</div>
-    <div class="periodical"><em> Social & Affective Neuroscience Society (SANS)</strong>, 2024.</em></div>
+    <div class="periodical"><em> <strong>Social & Affective Neuroscience Society (SANS)</strong>, 2024.</em></div>
   </div>
 </div>
 </li>
