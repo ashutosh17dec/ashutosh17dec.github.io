@@ -4,13 +4,15 @@ layout: homepage
 
 ## About Me
 
-I am a 3rd year Ph.D. student in Cognitive Systems Lab, Northeastern University where I am advised by Prof. <a href = "https://web.northeastern.edu/deniz/">Deniz Erdogmus</a>. My primary area of interest is in the intersection of Signal Processing, Control and Machine Learning. I’ve always been fascinated by the ease with which humans process information and make decisions.
-My research involves developing machine learning models that can recognize patterns in time series data to help us understand the behavior of complex systems. My key projects involve designing machine learning models to discover emerging patterns in bio-signals that helps us study human behaviour.
-I closely collaborate with Prof. <a href = "https://cos.northeastern.edu/people/lisa-barrett/">Lisa Feldman Barrett</a> to study the emerging patterns in fMRI datasets explaining human behaviour and emotions. I also work with Prof. <a href = "https://www.khoury.northeastern.edu/people/matthew-goodwin/">Mathew Goodwin</a> to develop machine learning models that can help predict psychological state of the patient from their bio-signals, collected using wearable devices. 
+I am a Ph.D. student in the Cognitive Systems Lab at Northeastern University, where I am advised by Prof. Deniz Erdogmus. My research lies at the intersection of signal processing, control, and machine learning. I am fascinated by the ease with which humans process information and make decisions, and I aim to replicate this efficiency in machine learning models.
 
-I received my Masters of Science (M.Sc.) in Electrical and Computer Engineering (ECE) at Northeastern University in May 2021 and Bachelor in Technology (B. Tech.) in Mechatronics (Minor. Robotics) from Manipal Institute of Technology in 2019. Aside from my current research I am extremely passionate about robotics and autonomous vehicle.
+My work focuses on developing algorithms to recognize patterns in time series data, particularly in bio-signals, to understand complex system behaviors. I have a keen interest in studying human behavior through these patterns. Currently, I am engaged in key projects that involve designing machine learning models to discover emerging patterns in bio-signals, aiding our understanding of human behavior.
 
-During my free time I love to indulge in conversation regarding geo-politics, stock market and chess. I enjoy reading manga or watching anime too.
+I collaborate closely with Prof. Lisa Feldman Barrett to analyze fMRI datasets, uncovering patterns that explain human behavior and emotions. Additionally, I work with Prof. Mathew Goodwin on developing predictive models for psychological states based on bio-signals collected from wearable devices.
+
+I hold a Master of Science (M.Sc.) in Electrical and Computer Engineering (ECE) from Northeastern University (2021) and a Bachelor in Technology (B.Tech.) in Mechatronics with a minor in Robotics from Manipal Institute of Technology (2019). Beyond my primary research, I am passionate about robotics and autonomous vehicles.
+
+In my leisure time, I enjoy engaging in conversations about geopolitics, the stock market, and chess. I also love reading manga and watching anime.
 
 ## Affiliation
 - **PEN-**  (Psychologists, Engineers, Neuroscientists) Cluster at Northeastern — a nexus of experimental and modeling driven studies of brain and peripheral nervous system and their interactions with the body. At Northeastern University I mainly focus on machine learning and cognitive science.
@@ -24,7 +26,9 @@ During my free time I love to indulge in conversation regarding geo-politics, st
 - **Psychology:** Mutli Voxel Pattern Analysis, Multi-Modal Analysis
 
 ## News
+- **[May 2024]** Started my internship at **Mitsubishi Electrical Research Laboratories (MERL)**
 - **[Apr. 2024]** Our paper on epileptogenesis and multi modal fusion got accepted at to **CMIG**.
+- **[Apr. 2024]** My collaborator presented poster of our work in **SANS 2024**.
 - **[Mar.2024]** Got awarded PhD network travel grant for poster presentation at **ICLR 2024**. See you all at Vienna!!
 - **[Jan. 2024]** Our paper on Learning semilinear neural operators got accepted in **ICLR 2024**.
 - **[Dec. 2023]** Our paper on Wearable Biosensing to Predict Imminent Aggressive Behavior got accepted in journal of **JAMA Network Open**.
