@@ -22,6 +22,8 @@ Outside of research, I enjoy chess, geopolitics, manga, and anime.
 - Healthcare & Behavior Analysis: Biosignal processing, clinical video understanding, autism behavior modeling, fMRI analysis
 
 ## News
+- **[May 2025]** Awarded Northeastern LEADERs fellowship! Started LEADERs research internship at **Amgen**. 
+- **[Sept 2024]** Started my internship at **Sony AI.**
 - **[May 2024]** Started my internship at **Mitsubishi Electrical Research Laboratories (MERL)**
 - **[Apr. 2024]** Our paper on epileptogenesis and multi modal fusion got accepted at to **CMIG**.
 - **[Apr. 2024]** My collaborator presented poster of our work in **SANS 2024**.
