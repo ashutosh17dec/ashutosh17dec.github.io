@@ -1,6 +1,7 @@
---
+---
 layout: homepage
---
+---
+
 ## About Me
 I am a final-year Ph.D. candidate in Computer Engineering at Northeastern University, advised by Prof. Deniz Erdogmus in the Cognitive Systems Lab. My research sits at the intersection of machine learning, signal processing, and dynamical systems, with a focus on building structured representations for spatio-temporal data that are principled, interpretable, and practically useful.
 My work spans non-stationary time series modeling, data assimilation, physics grounded motion representation learning, and generative modeling. I have also collaborated with Prof. Lisa Feldman Barrett on fMRI-based emotion modeling and with Prof. Tales Imbiriba (UMass Boston) on time series modeling and physics based ML. During my PhD I've also pursued industrial collaborations via internships at Sony AI (2024-2025), MERL(2024), Amgen(2025), and Ford Motor(2020).
