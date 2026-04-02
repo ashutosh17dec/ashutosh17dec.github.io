@@ -9,8 +9,8 @@ Outside of research, I enjoy chess, geopolitics, manga, and anime.
 
 ## Affiliations
 
-SPIRAL — Signal Processing, Imaging, Reasoning and Learning Lab, Northeastern University.
-PEN Cluster — Psychologists, Engineers, and Neuroscientists at Northeastern, focused on brain-body-behavior modeling.
+- SPIRAL — Signal Processing, Imaging, Reasoning and Learning Lab, Northeastern University.
+- PEN Cluster — Psychologists, Engineers, and Neuroscientists at Northeastern, focused on brain-body-behavior modeling.
 
 
 ## Research Interests
