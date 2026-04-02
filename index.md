@@ -1,29 +1,25 @@
----
+--
 layout: homepage
----
-
+--
 ## About Me
+I am a final-year Ph.D. candidate in Computer Engineering at Northeastern University, advised by Prof. Deniz Erdogmus in the Cognitive Systems Lab. My research sits at the intersection of machine learning, signal processing, and dynamical systems, with a focus on building structured representations for spatio-temporal data that are principled, interpretable, and practically useful.
+My work spans non-stationary time series modeling, data assimilation, physics grounded motion representation learning, and generative modeling. I have also collaborated with Prof. Lisa Feldman Barrett on fMRI-based emotion modeling and with Prof. Tales Imbiriba (UMass Boston) on time series modeling and physics based ML. During my PhD I've also pursued industrial collaborations via internships at Sony AI (2024-2025), MERL(2024), Amgen(2025), and Ford Motor(2020).
+I am currently on the job market, seeking ML Research Scientist and Applied Scientist roles where rigorous methodology meets real-world impact.
+Outside of research, I enjoy chess, geopolitics, manga, and anime.
 
-I am a Ph.D. student in the Cognitive Systems Lab at Northeastern University, where I am advised by Prof. Deniz Erdogmus. My research lies at the intersection of signal processing, control, and machine learning. I am fascinated by the ease with which humans process information and make decisions, and I aim to replicate this efficiency in machine learning models.
+## Affiliations
 
-My work focuses on developing algorithms to recognize patterns in time series data, particularly in bio-signals, to understand complex system behaviors. I have a keen interest in studying human behavior through these patterns. Currently, I am engaged in key projects that involve designing machine learning models to discover emerging patterns in bio-signals, aiding our understanding of human behavior.
+SPIRAL — Signal Processing, Imaging, Reasoning and Learning Lab, Northeastern University.
+PEN Cluster — Psychologists, Engineers, and Neuroscientists at Northeastern, focused on brain-body-behavior modeling.
 
-I collaborate closely with Prof. Lisa Feldman Barrett to analyze fMRI datasets, uncovering patterns that explain human behavior and emotions. Additionally, I work with Prof. Mathew Goodwin on developing predictive models for psychological states based on bio-signals collected from wearable devices.
-
-I hold a Master of Science (M.Sc.) in Electrical and Computer Engineering (ECE) from Northeastern University (2021) and a Bachelor in Technology (B.Tech.) in Mechatronics with a minor in Robotics from Manipal Institute of Technology (2019). Beyond my primary research, I am passionate about robotics and autonomous vehicles.
-
-In my leisure time, I enjoy engaging in conversations about geopolitics, the stock market, and chess. I also love reading manga and watching anime.
-
-## Affiliation
-- **PEN-**  (Psychologists, Engineers, Neuroscientists) Cluster at Northeastern — a nexus of experimental and modeling driven studies of brain and peripheral nervous system and their interactions with the body. At Northeastern University I mainly focus on machine learning and cognitive science.
-  
-- **SPIRAL-** Signal Processing Imaging Reasining and Learning group at Northeastern University.
 
 ## Research Interests
- 
-- **Machine Learning:** Domain Adaptation, Unsupervised Learning, Subspace Clustering, Multimodal analysis
-- **Signal Processing:** Physics inspired models, Signal Unmixing
-- **Psychology:** Mutli Voxel Pattern Analysis, Multi-Modal Analysis
+
+- Representation Learning: Self-supervised learning, JEPA
+- Generative Modeling: Diffusion models, VAEs, physics-conditioned motion synthesis
+- Dynamical Systems & Control: Neural operators, Koopman theory, data assimilation, physics-informed ML
+- Spatio-temporal Modeling: Skeleton-based action recognition, temporal point processes, time series forecasting
+- Healthcare & Behavior Analysis: Biosignal processing, clinical video understanding, autism behavior modeling, fMRI analysis
 
 ## News
 - **[May 2024]** Started my internship at **Mitsubishi Electrical Research Laboratories (MERL)**
